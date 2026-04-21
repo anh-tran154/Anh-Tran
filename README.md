@@ -14,9 +14,9 @@ Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa s
 ---
 
 ## Recent Projects
+Fully documented, GitHub analytic projects built to hiring standards: 
 
 - ### Power BI Portfolio Projects
-Fully documented, GitHub analytic projects built to hiring standards: 
 
 **Sales Performance** | Online Retail<br>
 10 DAX measures, 5 report pages, star schema, KPI glossary, README
