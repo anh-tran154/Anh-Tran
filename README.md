@@ -41,17 +41,17 @@ Data importing and cleaning, visualizing charts, findings and recommendation
 
 ## Toolkit
 
-**Languages:** Python · SQL · DAX
-**Data Processing:** Pandas · Numby
-**BI & Dashboarding:** Power BI (semantic models, DAX, story-telling)
+**Languages:** Python · SQL · DAX 
+**Data Processing:** Pandas · Numby 
+**BI & Dashboarding:** Power BI (semantic models, DAX, story-telling) 
 
 ---
 
 ## What's About My Approach
 
-1.**End-to-end ownership.** I'm not only presenting data but creating a story. I delivery full chain: source data → transformation → modeling → visualizing → actionable insights.
+1. **End-to-end ownership.** I'm not only presenting data but creating a story. I delivery full chain: source data → transformation → modeling → visualizing → actionable insights.
 
-2.**Mind-set priciple.** I start working on dataset only after I acknowledge a purpose, when I can answer "What decision does this support?", "Who's benefit from this?"
+2. **Mind-set priciple.** I start working on dataset only after I acknowledge a purpose, when I can answer "What decision does this support?", "Who's benefit from this?"
 
-3.**Unique Value.** Calm and selected. I bring a positive  and calm presence to dissolve the intense situation and complex issue by perceiving the environment and finding root-cause, turn chaos into direction.
+3. **Unique Value.** Calm and selected. I bring a positive  and calm presence to dissolve the intense situation and complex issue by perceiving the environment and finding root-cause, turn chaos into direction.
 
