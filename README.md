@@ -1,5 +1,3 @@
-<!-- anh-tran154/anh-tran154 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
-
 # Anh Tran
 **Data Analyst** | Tech & Manufacturing | San Diego, USA | [Linkedin](www.linkedin.com/in/anhtrananalyst) | [Portfolio](file:///C:/Users/annet/Desktop/Github/anhtran-portfolio/Portfolio%20Site/index.html)
 
@@ -20,10 +18,10 @@ Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa s
 ### Power BI Portfolio Projects
 Fully documented, GitHub analytic projects built to hiring standards: 
 
-**Sales Performance** | Online Retail
+**Sales Performance** | Online Retail<br>
 10 DAX measures, 5 report pages, star schema, KPI glossary, README
 
-**Customer Churn Analytics** | AirBnb
+**Customer Churn Analytics** | AirBnb<br>
 10 DAX measures, 5 report pages, revenue at risk, data dictionary
 
 All delivered to: GitHub repo · comprehensive documentation · architectural diagrams
@@ -31,7 +29,7 @@ All delivered to: GitHub repo · comprehensive documentation · architectural di
 ---
 
 ### Python Project
-**Exploring Market Trends** | Airbnb
+**Exploring Market Trends** | Airbnb<br>
 Data importing and cleaning, visualizing charts, findings and recommendation
 
 ---
