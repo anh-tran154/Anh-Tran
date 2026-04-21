@@ -26,16 +26,18 @@ Fully documented, GitHub analytic projects built to hiring standards:
 
 All delivered to: GitHub repo · comprehensive documentation · architectural diagrams
 
----
+--
 
 ### Python Project
 **Exploring Market Trends** | Airbnb<br>
 Data importing and cleaning, visualizing charts, findings and recommendation
 
+--
 
 ### SQL Project | **In progress
 Data importing and cleaning, visualizing charts, findings and recommendation
 
+--
 
 ## Toolkit
 
