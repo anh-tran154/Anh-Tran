@@ -13,7 +13,7 @@ Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa s
 
 ---
 
-## Recent Work
+## Recent Projects
 
 ### Power BI Portfolio Projects
 Fully documented, GitHub analytic projects built to hiring standards: 
