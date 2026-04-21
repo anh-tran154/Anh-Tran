@@ -6,7 +6,9 @@
 ## The Story
 
 I work across tech consulting and product-based company in Singapore and Canada that shaped my problem solving approaches from different perspectives, created a highly adaptibility and results-oriented mind-set.
+
 **What I do**: I turn raw data into clear, actionable insights for business decision‑making. 
+
 Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa sponsorship needed)
 
 ## Recent Work
