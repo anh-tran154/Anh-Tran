@@ -1,6 +1,45 @@
 # Anh Tran
-**Business Data Analyst** | San Diego, USA | [Linkedin](www.linkedin.com/in/anhtrananalyst) | [Portfolio](file:///C:/Users/annet/Desktop/Github/anhtran-portfolio/Portfolio%20Site/index.html)
+**Data Analyst** | Tech & Manufacturing | San Diego, USA | [Linkedin](www.linkedin.com/in/anhtrananalyst) | [Portfolio](file:///C:/Users/annet/Desktop/Github/anhtran-portfolio/Portfolio%20Site/index.html)
 
 ---
 
 ## The Story
+
+I work across tech consulting and product-based company in Singapore and Canada that shaped my problem solving approaches from different perspectives, created a highly adaptibility and results-oriented mind-set.
+**What I do**: I turn raw data into clear, actionable insights for business decision‑making. 
+Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa sponsorship needed)
+
+## Recent Work
+
+### Power BI Portfolio Projects
+Fully documented, GitHub analytic projects built to hiring standards: 
+
+**Sales Performance** | Online Retail
+10 DAX measures, 5 report pages, star schema, KPI glossary, README
+
+**Customer Churn Analytics** | AirBnb
+10 DAX measures, 5 report pages, revenue at risk, data dictionary
+
+All delivered to: GitHub repo · comprehensive documentation · architectural diagrams
+
+### Python Project
+**Exploring Market Trends** | Airbnb
+Data importing and cleaning, visualizing charts, findings and recommendation
+
+### SQL Project | **In progress
+Data importing and cleaning, visualizing charts, findings and recommendation
+
+---
+
+## Toolkit
+
+**Languages:** Python · SQL · DAX
+**Data Processing:** Pandas · Numby
+**BI & Dashboarding:** Power BI (semantic models, DAX, story-telling)
+
+## What's About My Approach
+
+1.**End-to-end ownership.** I'm not only presenting data but creating a story. I delivery full chain: source data → transformation → modeling → visualizing → actionable insights.
+2.**Mind-set priciple.** I start working on dataset only after I acknowledge a purpose, when I can answer "What decision does this support?", "Who's benefit from this?"
+3.**Unique Value.** Calm and selected. I bring a positive  and calm presence to dissolve the intense situation and complex issue by perceiving the environment and finding root-cause, turn chaos into direction.
+
