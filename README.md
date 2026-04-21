@@ -37,7 +37,7 @@ Data importing and cleaning, visualizing charts, findings and recommendation
 ### SQL Project | **In progress
 Data importing and cleaning, visualizing charts, findings and recommendation
 
---
+---
 
 ## Toolkit
 
