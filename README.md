@@ -11,6 +11,8 @@ I work across tech consulting and product-based company in Singapore and Canada 
 
 Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa sponsorship needed)
 
+---
+
 ## Recent Work
 
 ### Power BI Portfolio Projects
@@ -24,9 +26,13 @@ Fully documented, GitHub analytic projects built to hiring standards:
 
 All delivered to: GitHub repo · comprehensive documentation · architectural diagrams
 
+---
+
 ### Python Project
 **Exploring Market Trends** | Airbnb
 Data importing and cleaning, visualizing charts, findings and recommendation
+
+---
 
 ### SQL Project | **In progress
 Data importing and cleaning, visualizing charts, findings and recommendation
@@ -38,6 +44,8 @@ Data importing and cleaning, visualizing charts, findings and recommendation
 **Languages:** Python · SQL · DAX
 **Data Processing:** Pandas · Numby
 **BI & Dashboarding:** Power BI (semantic models, DAX, story-telling)
+
+---
 
 ## What's About My Approach
 
